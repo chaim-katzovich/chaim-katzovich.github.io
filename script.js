@@ -1,7 +1,7 @@
-let forename_prefix = ['Mo', 'He', 'Ja', 'Schmu', 'Schlo', 'Meno', 'Eli', 'Shi', 'Yeru', 'Reu'];
-let forename_suffix = ['donai', 'shel', 'mon', 'mo', 'diah', 'chay', 'prahim', 'muel', 'liel', 'bediah'];
-let surname_prefix = ['Gold', 'Wasser', 'Edel', 'Bergen', 'Braun', 'Katzen', 'Baren', 'Apple', 'Blumen', 'Kronen'];
-let surname_suffix = ['berg', 'stein', 'meyer', 'owsky', 'heimer', 'baum', 'feld', 'bach', 'heimer', 'mann'];
+const forename_prefix = ['Mo', 'He', 'Ja', 'Schmu', 'Schlo', 'Meno', 'Eli', 'Shi', 'Yeru', 'Reu'];
+const forename_suffix = ['donai', 'shel', 'mon', 'mo', 'diah', 'chay', 'prahim', 'muel', 'liel', 'bediah'];
+const surname_prefix = ['Gold', 'Wasser', 'Edel', 'Bergen', 'Braun', 'Katzen', 'Baren', 'Apple', 'Blumen', 'Kronen'];
+const surname_suffix = ['berg', 'stein', 'meyer', 'owsky', 'heimer', 'baum', 'feld', 'bach', 'heimer', 'mann'];
 
 function rndint(min, max) {
   min = Math.ceil(min);
